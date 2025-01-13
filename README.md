@@ -1,0 +1,1 @@
+"Developed a Python script to automate folder organization, categorizing files by extension into respective subfolders, leveraging file system operations, and providing user feedback on the cleaning process."
